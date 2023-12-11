@@ -2,7 +2,7 @@
 [build]
   command = "yarn run build"
   functions = "netlify/functions"
-  publish = ".output/public" # Updated to the correct directory
+  publish = ".nuxt/dist" # Updated to the correct directory
 
 # Redirects for Single Page Applications
 # Uncomment the following if you need to handle routing via Netlify redirects
@@ -17,6 +17,6 @@
 [dev]
   command = "yarn dev" # Assuming yarn dev is the command to start your Nuxt app
   port = 3000 # Default Nuxt development port
-  publish = ".output/public" # Should match the publish directory in the build settings
+  publish = ".nuxt/dist" # Should match the publish directory in the build settings
 
 # Additional settings can be added as needed
