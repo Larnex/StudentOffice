@@ -18,13 +18,4 @@ export default defineNuxtConfig({
       "process.env.DEBUG": false,
     },
   },
-  hooks: {
-    "vite:extendConfig": (config) => {
-      config?.plugins?.push(
-        vuetify({
-          styles: { configFile: "./settings.scss" },
-        }),
-      );
-    },
-  },
 });

@@ -37,6 +37,10 @@ import NewsList from "~/components/NewsList.vue";
 import scheduleData from "~/static/schedule.json";
 import newsData from "~/static/news.json";
 
+definePageMeta({
+  middleware: ["auth"],
+});
+
 // Extract week numbers from schedule data
 const weekNumbers = computed(() => {
   return scheduleData.map((weekInfo) => weekInfo.week);

@@ -47,6 +47,9 @@ const handleLogout = () => {
 };
 </script>
 
-<style scoped>
+<style>
 /* Your CSS styles here */
+.v-btn {
+  font-weight: bold;
+}
 </style>
