@@ -1,8 +1,8 @@
 # Netlify configuration for a Nuxt 3 application
 [build]
-  command = "yarn run build"
+  command = "yarn run generate"
   functions = "netlify/functions"
-  publish = ".nuxt/dist" # Updated to the correct directory
+  publish = "dist" # Updated to the correct directory
 
 # Redirects for Single Page Applications
 # Uncomment the following if you need to handle routing via Netlify redirects
