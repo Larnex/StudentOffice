@@ -1,0 +1,437 @@
+[
+    {
+      "week": 1,
+      "schedule": [
+        {
+          "day": "Czwartek",
+          "time": "08:00 - 10:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "Online",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_wszyscy",
+          "classType": "Wykład",
+          "date": "06.01.2023"
+        },
+        {
+          "day": "Piątek",
+          "time": "07:00 - 10:00",
+          "course": "Frontendowy Ninja",
+          "room": "Online",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_wszyscy",
+          "classType": "Seminarium",
+          "date": "07.01.2023"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "schedule": [
+        {
+          "day": "Wtorek",
+          "time": "09:00 - 12:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "A301",
+          "instructor": "dr inż. Anna Zając",
+          "group": "INIS7_FD",
+          "classType": "Konserwatorium",
+          "date": "11.01.2023"
+        },
+        {
+          "day": "Wtorek",
+          "time": "12:00 - 14:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "B101",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_FD",
+          "classType": "Praktyka",
+          "date": "11.01.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "15:00 - 18:00",
+          "course": "Frontendowy Ninja",
+          "room": "B101",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_FD",
+          "classType": "Wykład",
+          "date": "12.01.2023"
+        },
+        {
+          "day": "Piątek",
+          "time": "08:00 - 10:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "B201",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Seminarium",
+          "date": "14.01.2023"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "schedule": [
+        {
+          "day": "Poniedziałek",
+          "time": "07:00 - 10:00",
+          "course": "Frontendowy Ninja",
+          "room": "B101",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_wszyscy",
+          "classType": "Konserwatorium",
+          "date": "17.01.2023"
+        },
+        {
+          "day": "Wtorek",
+          "time": "09:00 - 12:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B201",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_FD",
+          "classType": "Laboratorium",
+          "date": "18.01.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "11:00 - 13:00",
+          "course": "Frontendowy Ninja",
+          "room": "Online",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Seminarium",
+          "date": "19.01.2023"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "schedule": [
+        {
+          "day": "Środa",
+          "time": "07:00 - 09:00",
+          "course": "React i Redux",
+          "room": "A301",
+          "instructor": "dr inż. Anna Zając",
+          "group": "INIS7_FD",
+          "classType": "Seminarium",
+          "date": "26.01.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "12:00 - 15:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B201",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_wszyscy",
+          "classType": "Seminarium",
+          "date": "26.01.2023"
+        },
+        {
+          "day": "Czwartek",
+          "time": "15:00 - 17:00",
+          "course": "React i Redux",
+          "room": "B201",
+          "instructor": "dr inż. Anna Zając",
+          "group": "INIS7_wszyscy",
+          "classType": "Praktyka",
+          "date": "27.01.2023"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "schedule": [
+        {
+          "day": "Poniedziałek",
+          "time": "12:00 - 15:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B101",
+          "instructor": "dr inż. Anna Zając",
+          "group": "INIS7_FD",
+          "classType": "Seminarium",
+          "date": "31.01.2023"
+        },
+        {
+          "day": "Czwartek",
+          "time": "09:00 - 11:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B101",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Laboratorium",
+          "date": "03.02.2023"
+        },
+        {
+          "day": "Czwartek",
+          "time": "10:00 - 13:00",
+          "course": "React i Redux",
+          "room": "A301",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Laboratorium",
+          "date": "03.02.2023"
+        },
+        {
+          "day": "Czwartek",
+          "time": "12:00 - 14:00",
+          "course": "React i Redux",
+          "room": "A301",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_FD",
+          "classType": "Wykład",
+          "date": "03.02.2023"
+        },
+        {
+          "day": "Piątek",
+          "time": "13:00 - 15:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B201",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_wszyscy",
+          "classType": "Wykład",
+          "date": "04.02.2023"
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "schedule": [
+        {
+          "day": "Poniedziałek",
+          "time": "09:00 - 12:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "B201",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_FD",
+          "classType": "Konserwatorium",
+          "date": "07.02.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "09:00 - 11:00",
+          "course": "Frontendowy Ninja",
+          "room": "Online",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_wszyscy",
+          "classType": "Seminarium",
+          "date": "09.02.2023"
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "schedule": [
+        {
+          "day": "Poniedziałek",
+          "time": "15:00 - 18:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "A301",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Seminarium",
+          "date": "14.02.2023"
+        },
+        {
+          "day": "Wtorek",
+          "time": "09:00 - 11:00",
+          "course": "React i Redux",
+          "room": "B201",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_wszyscy",
+          "classType": "Seminarium",
+          "date": "15.02.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "11:00 - 13:00",
+          "course": "React i Redux",
+          "room": "B101",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Konserwatorium",
+          "date": "16.02.2023"
+        },
+        {
+          "day": "Piątek",
+          "time": "14:00 - 17:00",
+          "course": "React i Redux",
+          "room": "Online",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_wszyscy",
+          "classType": "Praktyka",
+          "date": "18.02.2023"
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "schedule": [
+        {
+          "day": "Wtorek",
+          "time": "15:00 - 18:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "A301",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_FD",
+          "classType": "Wykład",
+          "date": "22.02.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "09:00 - 12:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "B201",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_FD",
+          "classType": "Seminarium",
+          "date": "23.02.2023"
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "schedule": [
+        {
+          "day": "Poniedziałek",
+          "time": "07:00 - 10:00",
+          "course": "Frontendowy Ninja",
+          "room": "Online",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_FD",
+          "classType": "Seminarium",
+          "date": "28.02.2023"
+        },
+        {
+          "day": "Wtorek",
+          "time": "13:00 - 16:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B201",
+          "instructor": "dr inż. Anna Zając",
+          "group": "INIS7_FD",
+          "classType": "Praktyka",
+          "date": "01.03.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "10:00 - 13:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B201",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_wszyscy",
+          "classType": "Wykład",
+          "date": "02.03.2023"
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "schedule": [
+        {
+          "day": "Poniedziałek",
+          "time": "13:00 - 16:00",
+          "course": "Frontendowy Ninja",
+          "room": "Online",
+          "instructor": "dr inż. Anna Zając",
+          "group": "INIS7_wszyscy",
+          "classType": "Konserwatorium",
+          "date": "07.03.2023"
+        },
+        {
+          "day": "Wtorek",
+          "time": "15:00 - 18:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "Online",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_wszyscy",
+          "classType": "Wykład",
+          "date": "08.03.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "12:00 - 15:00",
+          "course": "Frontendowy Ninja",
+          "room": "Online",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_FD",
+          "classType": "Praktyka",
+          "date": "09.03.2023"
+        },
+        {
+          "day": "Czwartek",
+          "time": "11:00 - 13:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "Online",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_FD",
+          "classType": "Laboratorium",
+          "date": "10.03.2023"
+        },
+        {
+          "day": "Piątek",
+          "time": "07:00 - 10:00",
+          "course": "Frontendowy Ninja",
+          "room": "A301",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_FD",
+          "classType": "Seminarium",
+          "date": "11.03.2023"
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "schedule": [
+        {
+          "day": "Środa",
+          "time": "07:00 - 09:00",
+          "course": "React i Redux",
+          "room": "B101",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Praktyka",
+          "date": "16.03.2023"
+        },
+        {
+          "day": "Środa",
+          "time": "12:00 - 15:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B201",
+          "instructor": "mgr inż. Ewa Kowalska",
+          "group": "INIS7_wszyscy",
+          "classType": "Wykład",
+          "date": "16.03.2023"
+        },
+        {
+          "day": "Czwartek",
+          "time": "14:00 - 17:00",
+          "course": "Tworzenie Interfejsów",
+          "room": "B101",
+          "instructor": "dr inż. Adam Nowak",
+          "group": "INIS7_FD",
+          "classType": "Praktyka",
+          "date": "17.03.2023"
+        },
+        {
+          "day": "Piątek",
+          "time": "07:00 - 10:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "Online",
+          "instructor": "inż. Paweł Wiśniewski",
+          "group": "INIS7_wszyscy",
+          "classType": "Laboratorium",
+          "date": "18.03.2023"
+        },
+        {
+          "day": "Piątek",
+          "time": "12:00 - 15:00",
+          "course": "Zaawansowany JavaScript",
+          "room": "A301",
+          "instructor": "dr inż. Anna Zając",
+          "group": "INIS7_FD",
+          "classType": "Konserwatorium",
+          "date": "18.03.2023"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,37 @@
+[
+    {
+        "paymentDate": "10.10.2020",
+        "amount": "2400,00 zł",
+        "title": "Czesne",
+        "status": "Zapłacone",
+        "confirmation": "Potwierdzenie"
+    },
+    {
+        "paymentDate": "15.05.2021",
+        "amount": "2650,00 zł",
+        "title": "Czesne",
+        "status": "Zapłacone",
+        "confirmation": "Potwierdzenie"
+    },
+    {
+        "paymentDate": "10.10.2021",
+        "amount": "2700,00 zł",
+        "title": "Czesne",
+        "status": "Zapłacone",
+        "confirmation": "Potwierdzenie"
+    },
+    {
+        "paymentDate": "15.05.2022",
+        "amount": "2850,00 zł",
+        "title": "Czesne",
+        "status": "Zapłacone",
+        "confirmation": "Potwierdzenie"
+    },
+    {
+        "paymentDate": "15.07.2022",
+        "amount": "659,55 zł",
+        "title": "Inne",
+        "status": "Zapłać online",
+        "confirmation": null
+    }
+]
